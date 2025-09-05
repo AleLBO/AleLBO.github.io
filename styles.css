@@ -300,9 +300,10 @@ footer{
   background-color: #1877f2;
 }
 
-#fab-icon i {
-  font-size: 24px;
-  fill: #fff;
+#fab-icon svg {
+  width: 6vh;
+  height: 6vh;
+  fill: #fff; /* force la couleur blanche de l'icône */
 }
 
 
