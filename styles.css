@@ -496,6 +496,9 @@ li a:hover{
     nav.active li a {
         font-size : 2.3vh;
     }
+    nav.active li a:hover{
+        text-decoration: none;
+    }
 
     /*--Carousel--*/
     .carousel{
